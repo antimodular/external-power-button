@@ -11,6 +11,7 @@ MacBook Pro Unibody 2010
 ![](https://raw.githubusercontent.com/antimodular/external-power-button/master/power_button_macbookpro_unibody_2010.jpeg)
 
 MacMini A1347
+some models seem to not work with the 10K resistor. A 4.7K worked.
 ![](https://github.com/antimodular/external-power-button/blob/master/mac_mini_A1347.jpg)
 
 ## Links
