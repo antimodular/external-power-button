@@ -15,6 +15,7 @@ some models seem to not work with the 10K resistor. A 4.7K worked.
 ![](https://github.com/antimodular/external-power-button/blob/master/mac_mini_A1347.jpg)
 
 MacBook Pro A1398
+
 ![](https://github.com/antimodular/external-power-button/blob/master/MBP_A1398.jpeg)
 
 ## Links
