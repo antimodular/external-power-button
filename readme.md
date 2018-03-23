@@ -18,6 +18,8 @@ MacBook Pro A1398
 
 ![](https://github.com/antimodular/external-power-button/blob/master/MBP_A1398.jpeg)
 
+Mac Mini Late 2014
+needs a 1k resistor on one of the button cables, otherwise mac mini gets a hard shutdown.
 ## Links
 <http://www.insidemylaptop.com/turn-on-macbook-pro-laptop-without-power-button-locating-power-on-pads/>
 <https://www.ifixit.com/Answers/View/144531/power+on+pads+on+A1398>
